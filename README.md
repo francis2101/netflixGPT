@@ -3,9 +3,11 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login Form
--Sign up Form
-
+- Sign up Form
+- Form Validation
+- useRef Hook
 
 # Features
 - Login/Sign Up
@@ -20,4 +22,4 @@
                 - MovieLists * N
 - NetflixGPT
     - Search Bar
-    - Movie Suggestions
+    - Movie Suggestions# netflixGPT
